@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: task1-container
-        image: task1:frontend
+        image: gcr.io/spry-equator-289113/task1:frontend
         imagePullPolicy: IfNotPresent
         env:
         - name: DB_HOST

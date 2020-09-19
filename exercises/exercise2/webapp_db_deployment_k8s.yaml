@@ -14,7 +14,7 @@ spec:
     spec:               #What state you desire for the object
       containers:
       - name: db-container
-        image: webapp:db 
+        image: gcr.io/spry-equator-289113/webapp:db
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8082
