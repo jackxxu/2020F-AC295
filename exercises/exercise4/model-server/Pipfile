@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = "*"
+pandas = "*"
+scikit-learn = "*"
+scipy = "*"
+opencv-python = "*"
+scikit-image = "*"
+matplotlib = "*"
+flask = "*"
+google-cloud-storage = "*"
+tensorflow-hub = "*"
+
+[requires]
+python_version = "3.8"
