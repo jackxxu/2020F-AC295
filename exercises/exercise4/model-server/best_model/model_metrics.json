@@ -1,1 +1,0 @@
-{"trainable_parameters": 3277189, "execution_time": 2.34357906182607, "loss": 0.6038785576820374, "accuracy": 0.7857142686843872, "model_size": 101177992, "learning_rate": 0.001, "batch_size": 32, "epochs": 5, "optimizer": "SGD", "label_names": ["beetroot", "bell_pepper", "broccoli", "carrot", "tomato"], "name": "model_1602355495", "id": 1602355643}
