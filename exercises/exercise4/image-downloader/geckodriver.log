@@ -1,0 +1,53 @@
+1602322908993	geckodriver	INFO	Listening on 127.0.0.1:33477
+1602322909003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileij5IUm"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602322912013	Marionette	INFO	Listening on port 39847
+1602322912058	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 20, 896, 1316, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 20, 896, 1316, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 896, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 0, 1364, 63
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 225, 121, 1131, 2007
+[Parent 20, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed to lock new back buffer.
+[Parent 20, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed to lock new back buffer.
+[Parent 20, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed to lock new back buffer.
+[Parent 20, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed to lock new back buffer.
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 640, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 640, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 640, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 640, 1356, 2560
+[Child 271, Main Thread] WARNING: fallocate failed to set shm size: No space left on device: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/shared_memory_posix.cc, line 198
+[GFX1-]: Failed buffer for 0, 640, 1356, 2560
+1602323046893	Marionette	INFO	Stopped listening on port 39847
